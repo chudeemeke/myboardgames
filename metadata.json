@@ -1,0 +1,5 @@
+{
+  "name": "Scrabble 3D Master",
+  "description": "A realistic, playable 3D Scrabble game featuring local multiplayer, timers, and AI-powered word validation using Gemini.",
+  "requestFramePermissions": []
+}
